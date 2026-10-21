@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="1000" height="250" role="img">
+<title>Smit Bangare, AI/ML Engineer</title>
+<rect width="1000" height="250" fill="#EDF1F4"/>
+<line x1="640" y1="40" x2="640" y2="210" stroke="#C8D2DA" stroke-width="1"/><line x1="680" y1="40" x2="680" y2="210" stroke="#C8D2DA" stroke-width="1"/><line x1="720" y1="40" x2="720" y2="210" stroke="#C8D2DA" stroke-width="1"/><line x1="760" y1="40" x2="760" y2="210" stroke="#C8D2DA" stroke-width="1"/><line x1="800" y1="40" x2="800" y2="210" stroke="#C8D2DA" stroke-width="1"/><line x1="840" y1="40" x2="840" y2="210" stroke="#C8D2DA" stroke-width="1"/><line x1="880" y1="40" x2="880" y2="210" stroke="#C8D2DA" stroke-width="1"/><line x1="920" y1="40" x2="920" y2="210" stroke="#C8D2DA" stroke-width="1"/><line x1="960" y1="40" x2="960" y2="210" stroke="#C8D2DA" stroke-width="1"/><line x1="640" y1="40" x2="960" y2="40" stroke="#C8D2DA" stroke-width="1"/><line x1="640" y1="95" x2="960" y2="95" stroke="#C8D2DA" stroke-width="1"/><line x1="640" y1="150" x2="960" y2="150" stroke="#C8D2DA" stroke-width="1"/><line x1="640" y1="205" x2="960" y2="205" stroke="#C8D2DA" stroke-width="1"/>
+<polyline points="640,190 668,172 696,181 724,146 752,160 780,118 808,132 836,92 864,108 892,70 920,80 948,52" fill="none" stroke="#1D4ED8" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="948" cy="52" r="5" fill="#1D4ED8"/>
+<text x="56" y="82" font-family="'Courier New', Consolas, monospace" font-size="15" letter-spacing="3" fill="#4A596A">AI/ML ENGINEER</text>
+<text x="52" y="150" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="-1.5" fill="#0F1A2A">Smit Bangare</text>
+<text x="56" y="188" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#0F1A2A">Agentic AI · RAG · Computer vision</text>
+<text x="56" y="216" font-family="'Courier New', Consolas, monospace" font-size="15" fill="#4A596A">Mumbai, India</text>
+</svg>

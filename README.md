@@ -1,87 +1,109 @@
-# Smit Bangare
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Smit Bangare, AI/ML Engineer. Agentic AI, RAG, computer vision. Mumbai, India." src="assets/banner-light.svg" width="100%">
+</picture>
 
-**AI / ML Engineer · Agentic AI · RAG · Computer Vision**
+<p align="center">
+  <a href="https://linkedin.com/in/smit-bangare"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-smit--bangare-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:smitbangare@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-smitbangare%40gmail.com-1D4ED8?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/SmitBangare/SmitBangare/blob/main/assets/Smit_Bangare_Resume.pdf"><img alt="Resume (PDF)" src="https://img.shields.io/badge/Resume-PDF-0F1A2A?style=flat-square"></a>
+</p>
 
-Mumbai, India
+I build agentic AI, retrieval and computer vision systems, from the model to the API and the container. My work so far covers a maritime AI copilot, research at TIFR, and ML systems deployed end to end.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-smit--bangare-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/smit-bangare)
-[![Email](https://img.shields.io/badge/Email-smitbangare%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:smitbangare@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%2093723%2056521-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+919372356521)
-[![Resume](https://img.shields.io/badge/Resume-PDF-0078D4?style=flat&logo=adobeacrobatreader&logoColor=white)](assets/Smit_Bangare_Resume.pdf)
+I'm open to AI/ML engineering roles.
 
----
+## What I work on
 
-## About
-
-AI & ML engineer with hands-on experience across agentic AI, generative AI (RAG, LLM agents), and computer vision — spanning applied AI roles, TIFR research, and deployed ML systems. Strong foundation in deep learning, multi-agent orchestration, and end-to-end ML pipeline development.
-
----
+| Agentic AI | RAG | Computer vision |
+| --- | --- | --- |
+| Multi-agent orchestration in LangGraph, with confidence-based handoffs and a human check before anything is final. | Hybrid search (BM25 plus dense vectors) in Qdrant, with cross-encoder reranking. | CNN and transformer models for edge detection and chest X-ray analysis. |
 
 ## Experience
 
-| Role | Organization | Period | Highlight |
-|------|--------------|--------|-----------|
-| AI/ML Engineer | Tech Shipping OPC | Jun 2025 – Aug 2026 | Maritime AI copilot, RAG, predictive ML |
-| Research Intern | TIFR | Jan 2026 – May 2026 | DC beamline magnet calibration, sub-1% error |
-| ML Intern | Unified Mentor | Dec 2024 – Jan 2025 | Predictive models & dashboards |
-| Research Intern | Skylark Realty | Jun 2024 – Aug 2024 | PatchTST HVAC forecasting |
+| Role | Organisation | Period | What I did |
+| --- | --- | --- | --- |
+| AI/ML Engineer | Tech Shipping OPC | Jun 2025 â€“ Aug 2026 | Maritime AI copilot, RAG, predictive ML |
+| Research Intern | TIFR | Jan â€“ May 2026 | DC beamline magnet calibration, sub-1% error |
+| ML Intern | Unified Mentor | Dec 2024 â€“ Jan 2025 | Predictive models and dashboards |
+| Research Intern | Skylark Realty | Jun â€“ Aug 2024 | HVAC load forecasting with PatchTST |
 
----
+## Featured projects
 
-## Featured Projects
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <b><a href="https://github.com/SmitBangare/Critical-AI-Capestone">Multi-Agent Medical Imaging</a></b><br>
+      <sub>LangGraph Â· Qdrant Â· FastAPI Â· Docker</sub><br>
+      Agents that read chest X-rays, assess sepsis risk and answer medical questions, with guardrails and review by a medical professional.
+    </td>
+    <td valign="top" width="50%">
+      <b><a href="https://github.com/SmitBangare/Trading-Sentinel">Trading Sentinel</a></b><br>
+      <sub>FastAPI Â· Node.js Â· React Â· Fyers</sub><br>
+      An algorithmic-trading system with risk gates, paper trading by default, Telegram alerts and a backtester that replays real candle history.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <b><a href="https://github.com/SmitBangare/VigilPay">VigilPay</a></b> Â· Smart India Hackathon 2024 finalist<br>
+      <sub>Next.js Â· MongoDB Â· Tailwind</sub><br>
+      Fraud prevention for Indian payments, with risk scoring that adapts to regional merchant trust and festival periods.
+    </td>
+    <td valign="top" width="50%">
+      <b><a href="https://github.com/SmitBangare/Contextual-Edge-Detection">Context-Aware Edge Detection</a></b><br>
+      <sub>PyTorch Â· ResNet50 Â· Transformers</sub><br>
+      An edge detector that adds transformer refinement and attention gates to a ResNet50 backbone.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <b><a href="https://github.com/SmitBangare/HVAC_optimization">HVAC Load Forecasting</a></b><br>
+      <sub>PatchTST Â· TSai Â· PyTorch</sub><br>
+      Forecasts cooling load in kWh from 46 weather, occupancy and zone features over 48 time steps.
+    </td>
+    <td valign="top" width="50%">
+      <b><a href="https://github.com/SmitBangare/DC-Beamline-Magnet-Calibration-TIFR">TIFR Magnet Calibration</a></b><br>
+      <sub>Python Â· Physics-based regression</sub><br>
+      Calibration of DC beamline magnets from my research internship, evaluated with leave-one-out cross-validation.
+    </td>
+  </tr>
+</table>
 
-| Project | Repository | Summary |
-|---------|------------|---------|
-| Multi-Agent Medical Imaging | [Critical-AI-Capestone](https://github.com/SmitBangare/Critical-AI-Capestone) | LangGraph agents, Agentic RAG, FastAPI + Docker |
-| TIFR Magnet Calibration | [DC-Beamline-Magnet-Calibration-TIFR](https://github.com/SmitBangare/DC-Beamline-Magnet-Calibration-TIFR) | Physics-based regression, LOOCV |
-| Aeronext HVAC Platform | [Aeronext](https://github.com/SmitBangare/Aeronext) | PatchTST forecasting, RL optimization |
-| Context-Aware Edge Detection | [Contextual-Edge-Detection](https://github.com/SmitBangare/Contextual-Edge-Detection) | CNN–Transformer hybrid, BSD500 |
-| VigilPay | [VigilPay](https://github.com/SmitBangare/VigilPay) | Fraud detection, SIH 2024 finalist |
-| Diet Recommendation System | [Diet-Reccomendation-System-for-Healthy-Lifestyle](https://github.com/SmitBangare/Diet-Reccomendation-System-for-Healthy-Lifestyle) | ML-based lifestyle recommendations |
-
----
-
-## Education
-
-**B.Tech Electronics & Computer Engineering** — K. J. Somaiya College of Engineering, Mumbai  
-CGPA 8.43/10 · 2022 – 2026
-
----
+More: [Aeronext HVAC Platform](https://github.com/SmitBangare/Aeronext) Â· [Diet Recommendation System](https://github.com/SmitBangare/Diet-Reccomendation-System-for-Healthy-Lifestyle)
 
 ## Skills
 
-**Languages**
+![Python](https://img.shields.io/badge/Python-0F1A2A?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-0F1A2A?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0F1A2A?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0F1A2A?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F1A2A?style=flat-square&logo=javascript&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-1D4ED8?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1D4ED8?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1D4ED8?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1D4ED8?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-1D4ED8?style=flat-square&logo=huggingface&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-1D4ED8?style=flat-square&logo=opencv&logoColor=white)
 
-**ML / AI**
+![FastAPI](https://img.shields.io/badge/FastAPI-4A596A?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-4A596A?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-4A596A?style=flat-square&logo=githubactions&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-4A596A?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4A596A?style=flat-square&logo=mysql&logoColor=white)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+## Education
 
-**Backend & Tools**
+**B.Tech, Electronics and Computer Engineering**, K. J. Somaiya College of Engineering, Mumbai
+2022 â€“ 2026 Â· CGPA 8.43 / 10
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+## GitHub activity
+
+<p>
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SmitBangare&show_icons=true&theme=transparent&hide_border=true">
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmitBangare&layout=compact&theme=transparent&hide_border=true">
+</p>
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SmitBangare&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmitBangare&layout=compact&hide_border=true)
-
----
-
-*Open to AI/ML engineering opportunities · Mumbai, India*
+<p align="center"><sub>Mumbai, India Â· Open to AI/ML engineering opportunities</sub></p>
