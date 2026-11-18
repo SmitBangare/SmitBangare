@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 300" width="580" height="300" role="img" aria-labelledby="t">
+<title id="t">Trading Sentinel: An algorithmic-trading system with risk gates, paper trading by default, Telegram alerts and a backtester that replays real candle history.</title>
+<style></style>
+<rect x="1" y="1" width="578" height="298" rx="18" fill="#F6F8FB" stroke="#C8D2DA"/>
+<rect x="1" y="1" width="578" height="6" rx="3" fill="#1D4ED8"/>
+<text x="32" y="50" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" letter-spacing="2" fill="#1D4ED8">QUANT · FULL STACK</text>
+<text x="32" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#0F1A2A">Trading Sentinel</text>
+<text x="32" y="128" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#4A596A">An algorithmic-trading system with risk gates, paper</text>
+<text x="32" y="153" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#4A596A">trading by default, Telegram alerts and a backtester that</text>
+<text x="32" y="178" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#4A596A">replays real candle history.</text>
+<rect x="32" y="208" width="77" height="26" rx="13" fill="#EDF1F4" stroke="#C8D2DA"/><text x="70" y="225.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#4A596A">FastAPI</text><rect x="117" y="208" width="77" height="26" rx="13" fill="#EDF1F4" stroke="#C8D2DA"/><text x="155" y="225.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#4A596A">Node.js</text><rect x="201" y="208" width="61" height="26" rx="13" fill="#EDF1F4" stroke="#C8D2DA"/><text x="232" y="225.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#4A596A">React</text><rect x="270" y="208" width="61" height="26" rx="13" fill="#EDF1F4" stroke="#C8D2DA"/><text x="301" y="225.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#4A596A">Fyers</text>
+<line x1="32" y1="252" x2="548" y2="252" stroke="#C8D2DA"/>
+<text x="32" y="278" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#0F1A2A">★ Paper trading by default, risk gates first</text>
+<text x="548" y="278" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#1D4ED8">View repo →</text>
+</svg>

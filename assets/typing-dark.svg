@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 56" width="1200" height="56" role="img" aria-labelledby="t">
+<title id="t">What I build: Agentic AI with a human in the loop; Retrieval systems that cite their sources; Computer vision, from model to API; Production ML that ships and stays up</title>
+<style></style>
+<defs>
+<clipPath id="c0"><rect x="348.0" y="0" width="0" height="56"><animate id="p0" attributeName="width" values="0;508.0;508.0;0" keyTimes="0;0.4;0.85;1" dur="4.0s" begin="0s;p3.end" fill="freeze"/></rect></clipPath>
+<clipPath id="c1"><rect x="304.8" y="0" width="0" height="56"><animate id="p1" attributeName="width" values="0;594.4;594.4;0" keyTimes="0;0.4;0.85;1" dur="4.0s" begin="p0.end" fill="freeze"/></rect></clipPath>
+<clipPath id="c2"><rect x="355.2" y="0" width="0" height="56"><animate id="p2" attributeName="width" values="0;493.6;493.6;0" keyTimes="0;0.4;0.85;1" dur="4.0s" begin="p1.end" fill="freeze"/></rect></clipPath>
+<clipPath id="c3"><rect x="333.6" y="0" width="0" height="56"><animate id="p3" attributeName="width" values="0;536.8;536.8;0" keyTimes="0;0.4;0.85;1" dur="4.0s" begin="p2.end" fill="freeze"/></rect></clipPath>
+</defs>
+<text x="348.0" y="37" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="24" fill="#85A6FF" clip-path="url(#c0)">Agentic AI with a human in the loop</text>
+<rect x="348.0" y="14" width="3" height="30" fill="#85A6FF" opacity="0"><animate attributeName="x" values="348.0;856.0;856.0;348.0" keyTimes="0;0.4;0.85;1" dur="4.0s" begin="0s;p3.end"/><animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.5;0.99;1" dur="4.0s" begin="0s;p3.end"/></rect>
+<text x="304.8" y="37" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="24" fill="#85A6FF" clip-path="url(#c1)">Retrieval systems that cite their sources</text>
+<rect x="304.8" y="14" width="3" height="30" fill="#85A6FF" opacity="0"><animate attributeName="x" values="304.8;899.2;899.2;304.8" keyTimes="0;0.4;0.85;1" dur="4.0s" begin="p0.end"/><animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.5;0.99;1" dur="4.0s" begin="p0.end"/></rect>
+<text x="355.2" y="37" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="24" fill="#85A6FF" clip-path="url(#c2)">Computer vision, from model to API</text>
+<rect x="355.2" y="14" width="3" height="30" fill="#85A6FF" opacity="0"><animate attributeName="x" values="355.2;848.8;848.8;355.2" keyTimes="0;0.4;0.85;1" dur="4.0s" begin="p1.end"/><animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.5;0.99;1" dur="4.0s" begin="p1.end"/></rect>
+<text x="333.6" y="37" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="24" fill="#85A6FF" clip-path="url(#c3)">Production ML that ships and stays up</text>
+<rect x="333.6" y="14" width="3" height="30" fill="#85A6FF" opacity="0"><animate attributeName="x" values="333.6;870.4;870.4;333.6" keyTimes="0;0.4;0.85;1" dur="4.0s" begin="p2.end"/><animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.5;0.99;1" dur="4.0s" begin="p2.end"/></rect>
+</svg>
