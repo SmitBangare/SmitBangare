@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="1200" height="90" role="img" aria-labelledby="t">
+<title id="t">Decorative wave</title>
+<style>.drift{animation:drift 14s linear infinite}.slow{animation-duration:22s}@keyframes drift{from{transform:translateX(0)}to{transform:translateX(-900px)}}</style>
+<g class="drift"><path d="M0,50 C150,20 300,80 450,50 C600,20 750,80 900,50 C1050,20 1200,80 1350,50 C1500,20 1650,80 1800,50 C1950,20 2100,80 2250,50 C2400,20 2550,80 2700,50" fill="none" stroke="#1D4ED8" stroke-width="2" opacity="0.55"/></g>
+<g class="drift slow"><path d="M0,50 C150,20 300,80 450,50 C600,20 750,80 900,50 C1050,20 1200,80 1350,50 C1500,20 1650,80 1800,50 C1950,20 2100,80 2250,50 C2400,20 2550,80 2700,50" transform="translate(0,12)" fill="none" stroke="#0F766E" stroke-width="1.5" opacity="0.35"/></g>
+</svg>

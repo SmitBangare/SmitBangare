@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 300" width="580" height="300" role="img" aria-labelledby="t">
+<title id="t">HVAC Load Forecasting: Forecasts cooling load in kWh from 46 weather, occupancy and zone features over 48 time steps.</title>
+<style></style>
+<rect x="1" y="1" width="578" height="298" rx="18" fill="#F6F8FB" stroke="#C8D2DA"/>
+<rect x="1" y="1" width="578" height="6" rx="3" fill="#1D4ED8"/>
+<text x="32" y="50" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" letter-spacing="2" fill="#1D4ED8">TIME SERIES</text>
+<text x="32" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#0F1A2A">HVAC Load Forecasting</text>
+<text x="32" y="128" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#4A596A">Forecasts cooling load in kWh from 46 weather, occupancy</text>
+<text x="32" y="153" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#4A596A">and zone features over 48 time steps.</text>
+<rect x="32" y="208" width="84" height="26" rx="13" fill="#EDF1F4" stroke="#C8D2DA"/><text x="74" y="225.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#4A596A">PatchTST</text><rect x="124" y="208" width="53" height="26" rx="13" fill="#EDF1F4" stroke="#C8D2DA"/><text x="151" y="225.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#4A596A">TSai</text><rect x="186" y="208" width="77" height="26" rx="13" fill="#EDF1F4" stroke="#C8D2DA"/><text x="224" y="225.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#4A596A">PyTorch</text>
+<line x1="32" y1="252" x2="548" y2="252" stroke="#C8D2DA"/>
+<text x="32" y="278" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#0F1A2A">★ 46 features · 48-step horizon</text>
+<text x="548" y="278" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#1D4ED8">View repo →</text>
+</svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="t">
+<title id="t">Smit Bangare, AI/ML Engineer. Agentic AI, RAG, computer vision. Mumbai, India.</title>
+<style>.ping{transform-box:fill-box;transform-origin:center;animation:ping 2.4s ease-out infinite}@keyframes ping{0%{transform:scale(1);opacity:.8;stroke-width:2}100%{transform:scale(3);opacity:0;stroke-width:.5}}</style>
+<rect width="1200" height="320" fill="#0B111A"/>
+<line x1="680" y1="30" x2="680" y2="290" stroke="#223043" stroke-width="1" opacity="0.45"/>
+<line x1="720" y1="30" x2="720" y2="290" stroke="#223043" stroke-width="1" opacity="0.45"/>
+<line x1="760" y1="30" x2="760" y2="290" stroke="#223043" stroke-width="1" opacity="0.45"/>
+<line x1="800" y1="30" x2="800" y2="290" stroke="#223043" stroke-width="1" opacity="0.45"/>
+<line x1="840" y1="30" x2="840" y2="290" stroke="#223043" stroke-width="1" opacity="0.45"/>
+<line x1="880" y1="30" x2="880" y2="290" stroke="#223043" stroke-width="1" opacity="0.45"/>
+<line x1="920" y1="30" x2="920" y2="290" stroke="#223043" stroke-width="1" opacity="0.45"/>
+<line x1="960" y1="30" x2="960" y2="290" stroke="#223043" stroke-width="1" opacity="0.45"/>
+<line x1="1000" y1="30" x2="1000" y2="290" stroke="#223043" stroke-width="1" opacity="0.45"/>
+<line x1="1040" y1="30" x2="1040" y2="290" stroke="#223043" stroke-width="1" opacity="0.45"/>
+<line x1="1080" y1="30" x2="1080" y2="290" stroke="#223043" stroke-width="1" opacity="0.45"/>
+<line x1="1120" y1="30" x2="1120" y2="290" stroke="#223043" stroke-width="1" opacity="0.45"/>
+<line x1="1160" y1="30" x2="1160" y2="290" stroke="#223043" stroke-width="1" opacity="0.45"/>
+<line x1="680" y1="30" x2="1160" y2="30" stroke="#223043" stroke-width="1" opacity="0.45"/>
+<line x1="680" y1="82" x2="1160" y2="82" stroke="#223043" stroke-width="1" opacity="0.45"/>
+<line x1="680" y1="134" x2="1160" y2="134" stroke="#223043" stroke-width="1" opacity="0.45"/>
+<line x1="680" y1="186" x2="1160" y2="186" stroke="#223043" stroke-width="1" opacity="0.45"/>
+<line x1="680" y1="238" x2="1160" y2="238" stroke="#223043" stroke-width="1" opacity="0.45"/>
+<line x1="680" y1="290" x2="1160" y2="290" stroke="#223043" stroke-width="1" opacity="0.45"/>
+<path id="e0" d="M760,90 L860,60" stroke="#85A6FF" stroke-width="1.5" opacity="0.35" fill="none"/>
+<path id="e1" d="M860,60 L960,110" stroke="#85A6FF" stroke-width="1.5" opacity="0.35" fill="none"/>
+<path id="e2" d="M960,110 L1080,80" stroke="#85A6FF" stroke-width="1.5" opacity="0.35" fill="none"/>
+<path id="e3" d="M760,90 L820,190" stroke="#85A6FF" stroke-width="1.5" opacity="0.35" fill="none"/>
+<path id="e4" d="M820,190 L930,220" stroke="#85A6FF" stroke-width="1.5" opacity="0.35" fill="none"/>
+<path id="e5" d="M930,220 L1050,190" stroke="#85A6FF" stroke-width="1.5" opacity="0.35" fill="none"/>
+<path id="e6" d="M1050,190 L1080,80" stroke="#85A6FF" stroke-width="1.5" opacity="0.35" fill="none"/>
+<path id="e7" d="M960,110 L930,220" stroke="#85A6FF" stroke-width="1.5" opacity="0.35" fill="none"/>
+<path id="e8" d="M1050,190 L1130,250" stroke="#85A6FF" stroke-width="1.5" opacity="0.35" fill="none"/>
+<path id="e9" d="M720,250 L820,190" stroke="#85A6FF" stroke-width="1.5" opacity="0.35" fill="none"/>
+<path id="e10" d="M860,60 L820,190" stroke="#85A6FF" stroke-width="1.5" opacity="0.35" fill="none"/>
+<path id="e11" d="M960,110 L1050,190" stroke="#85A6FF" stroke-width="1.5" opacity="0.35" fill="none"/>
+<circle r="3.5" fill="#85A6FF"><animateMotion dur="3.0s" repeatCount="indefinite" begin="0.0s"><mpath href="#e0"/></animateMotion></circle>
+<circle r="3.5" fill="#85A6FF"><animateMotion dur="4.2s" repeatCount="indefinite" begin="0.8s"><mpath href="#e2"/></animateMotion></circle>
+<circle r="3.5" fill="#85A6FF"><animateMotion dur="5.4s" repeatCount="indefinite" begin="1.6s"><mpath href="#e4"/></animateMotion></circle>
+<circle r="3.5" fill="#85A6FF"><animateMotion dur="3.6s" repeatCount="indefinite" begin="2.4000000000000004s"><mpath href="#e6"/></animateMotion></circle>
+<circle r="3.5" fill="#85A6FF"><animateMotion dur="4.8s" repeatCount="indefinite" begin="3.2s"><mpath href="#e8"/></animateMotion></circle>
+<circle r="3.5" fill="#85A6FF"><animateMotion dur="3.0s" repeatCount="indefinite" begin="4.0s"><mpath href="#e10"/></animateMotion></circle>
+<circle cx="760" cy="90" r="9" fill="#0B111A" stroke="#85A6FF" stroke-width="2"/>
+<circle cx="760" cy="90" r="9" fill="none" stroke="#85A6FF" class="ping" style="animation-delay:0.0s"/>
+<circle cx="860" cy="60" r="6" fill="#0B111A" stroke="#85A6FF" stroke-width="2"/>
+<circle cx="960" cy="110" r="6" fill="#0B111A" stroke="#85A6FF" stroke-width="2"/>
+<circle cx="1080" cy="80" r="9" fill="#0B111A" stroke="#85A6FF" stroke-width="2"/>
+<circle cx="1080" cy="80" r="9" fill="none" stroke="#85A6FF" class="ping" style="animation-delay:1.5s"/>
+<circle cx="820" cy="190" r="6" fill="#0B111A" stroke="#85A6FF" stroke-width="2"/>
+<circle cx="930" cy="220" r="9" fill="#0B111A" stroke="#85A6FF" stroke-width="2"/>
+<circle cx="930" cy="220" r="9" fill="none" stroke="#85A6FF" class="ping" style="animation-delay:2.5s"/>
+<circle cx="1050" cy="190" r="6" fill="#0B111A" stroke="#85A6FF" stroke-width="2"/>
+<circle cx="1130" cy="250" r="6" fill="#0B111A" stroke="#85A6FF" stroke-width="2"/>
+<circle cx="720" cy="250" r="6" fill="#0B111A" stroke="#85A6FF" stroke-width="2"/>
+<polyline id="trend" points="690,280 740,262 790,270 840,240 890,250 940,210 990,222 1040,180 1090,190 1150,150" fill="none" stroke="#5EEAD4" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" opacity="0.9"/>
+<circle r="5" fill="#5EEAD4"><animateMotion dur="4s" repeatCount="indefinite" path="M690,280 L740,262 L790,270 L840,240 L890,250 L940,210 L990,222 L1040,180 L1090,190 L1150,150"/></circle>
+<text x="64" y="92" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="16" letter-spacing="4" fill="#85A6FF" class="fade f1">AI/ML ENGINEER</text>
+<text x="60" y="164" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="70" font-weight="800" fill="#E5EBF2" class="fade f2">Smit Bangare</text>
+<text x="64" y="208" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" fill="#E5EBF2" class="fade f3">Agentic AI · RAG · Computer vision · Production ML</text>
+<circle cx="72" cy="251" r="6" fill="#5EEAD4" class="fade f4"/><circle cx="72" cy="251" r="6" fill="none" stroke="#5EEAD4" class="ping"/>
+<text x="88" y="257" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="16" fill="#9BAABA" class="fade f4">Mumbai, India · open to AI/ML engineering roles</text>
+</svg>

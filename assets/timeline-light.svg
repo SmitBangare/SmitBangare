@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 424" width="1200" height="424" role="img" aria-labelledby="t">
+<title id="t">Experience: AI/ML Engineer at Tech Shipping OPC, Jun 2025 – present; Research Intern at TIFR, Jan – May 2026; ML Intern at Unified Mentor, Dec 2024 – Jan 2025; Research Intern at Skylark Realty, Jun – Aug 2024</title>
+<style>.ping{transform-box:fill-box;transform-origin:center;animation:ping 2.4s ease-out infinite}@keyframes ping{0%{transform:scale(1);opacity:.8}100%{transform:scale(2.4);opacity:0}}</style>
+<line x1="300" y1="40" x2="300" y2="384" stroke="#C8D2DA" stroke-width="2"/>
+<g class="row" style="animation-delay:0.0s">
+<text x="268" y="58" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="16" fill="#4A596A">Jun 2025 – present</text>
+<circle cx="300" cy="52" r="9" fill="#FFFFFF" stroke="#0F766E" stroke-width="3"/>
+<circle cx="300" cy="52" r="9" fill="none" stroke="#0F766E" class="ping"/>
+<text x="334" y="59" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F1A2A">AI/ML Engineer <tspan fill="#0F766E">· Tech Shipping OPC</tspan></text>
+<text x="334" y="88" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#4A596A">Built ChandleryOS, the company's operations system; maritime AI copilot, RAG, predictive ML</text>
+</g>
+<g class="row" style="animation-delay:0.2s">
+<text x="268" y="154" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="16" fill="#4A596A">Jan – May 2026</text>
+<circle cx="300" cy="148" r="9" fill="#FFFFFF" stroke="#1D4ED8" stroke-width="3"/>
+<text x="334" y="155" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F1A2A">Research Intern <tspan fill="#1D4ED8">· TIFR</tspan></text>
+<text x="334" y="184" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#4A596A">DC beamline magnet calibration, sub-1% error</text>
+</g>
+<g class="row" style="animation-delay:0.4s">
+<text x="268" y="250" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="16" fill="#4A596A">Dec 2024 – Jan 2025</text>
+<circle cx="300" cy="244" r="9" fill="#FFFFFF" stroke="#1D4ED8" stroke-width="3"/>
+<text x="334" y="251" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F1A2A">ML Intern <tspan fill="#1D4ED8">· Unified Mentor</tspan></text>
+<text x="334" y="280" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#4A596A">Predictive models and dashboards</text>
+</g>
+<g class="row" style="animation-delay:0.6s">
+<text x="268" y="346" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="16" fill="#4A596A">Jun – Aug 2024</text>
+<circle cx="300" cy="340" r="9" fill="#FFFFFF" stroke="#1D4ED8" stroke-width="3"/>
+<text x="334" y="347" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#0F1A2A">Research Intern <tspan fill="#1D4ED8">· Skylark Realty</tspan></text>
+<text x="334" y="376" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#4A596A">HVAC load forecasting with PatchTST</text>
+</g>
+</svg>
